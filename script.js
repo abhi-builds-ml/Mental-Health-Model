@@ -1,4 +1,4 @@
-const API_URL = "https://mental-health-model-cpql.onrender.com";
+const API_URL = "https://mental-health-model-cpql.onrender.com/predict";
 
 const form = document.getElementById("predict-form");
 const submitBtn = document.getElementById("submit-btn");
